@@ -1,4 +1,4 @@
-# browndust2-repacker# Brown Dust 2 Repacker
+# Brown Dust 2 Repacker
 A simple tool useful to mod [Brown Dust 2](https://www.browndust2.com/en-us/) bundles. Thanks to Bingle for the help with this repacker.
 
 
