@@ -51,3 +51,6 @@ NOTE: The script _Z___clean_folders.py_ is just to clean the folders used by the
 ## Usage to install your own mods:
 
 If you make your own mods you can use this tool to save some time too. You can use this tool to extract/export the assets to "Extracted Assets" and then you can start to work with the assets from there, save the changes to the assets and when you're ready to import the assets back to the bundles you can run _5___bingle_kxde_repacker_LZ4_compressor___auto-RGBA32.py_ and _6___remove_bundle_extension.py_ and your modified files will be saved to "Repacked". Then just move them to your game folder and that's it.
+
+
+Happy modding! ^‿^
