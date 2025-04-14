@@ -10,7 +10,7 @@ A simple tool useful to mod [Brown Dust 2](https://www.browndust2.com/en-us/) bu
   - Download and install [Python](https://www.python.org/downloads/), along with all of the addons included (pip, etc).
   - Download and install [Microsoft C++ Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe), and after that install the necessary libraries following [this video](https://files.catbox.moe/vqsuix.mp4).
 
-  - Open a Windows PowerShell window as Admin, type: 
+  - Open CMD and type: 
     ```
 	pip install UnityPy
 	```
