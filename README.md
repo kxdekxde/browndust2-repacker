@@ -27,7 +27,7 @@ A simple tool useful to mod [Brown Dust 2](https://www.browndust2.com/en-us/) bu
 5. Run _A___GET_RAW_FILES.bat_, the .bat file will run the scripts to get the raw files from the game folders and it will make a copy to the folder "Original Bundles".
 6. Run _1___REPACKER.bat_ to start the repacking process. And now just wait, the Terminal window will close when the repacking is done.
 7. If everything worked with no issues you will see your repacked files saved in the folder "Repacked".
-8. Copy those folders from "Repacked" and paste them in your game folder  "Gamfs_BrownDust II" manually, located in %USERPROFILE%\AppData\LocalLow\Unity\Gamfs_BrownDust II.
+8. Copy those folders from "Repacked" and paste them in your game folder  "Gamfs_BrownDust II" manually, located in `%USERPROFILE%\AppData\LocalLow\Unity\Gamfs_BrownDust II`.
 9. Replace the files and that's it.
 
 NOTE: The script _Z___clean_folders.py_ is just to clean the folders used by the tool when you finished to repack your mods, so you can just ignore this script and delete the files or folders you don't need anymore manually. This script doesn't clean the folder "Repacked".
