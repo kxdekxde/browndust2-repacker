@@ -44,7 +44,7 @@ NOTE: The script _Z___clean_folders.py_ is just to clean the folders used by the
 7. Run _5___bingle_kxde_repacker_LZ4_compressor___auto-RGBA32.py_ and the tool will start to repack the files using the modded assets you replaced in "Extracted Assets". The Terminal window should close when the repacking is done.
 8. Run _6___remove_bundle_extension.py_.
 9. If everything worked with no issues you will see your repacked files saved in the folder "Repacked".
-10. Copy those folders from "Repacked" and paste them in your game folder  "Gamfs_BrownDust II" manually, located in %USERPROFILE%\AppData\LocalLow\Unity\Gamfs_BrownDust II.
+10. Copy those folders from "Repacked" and paste them in your game folder  "Gamfs_BrownDust II" manually, located in `%USERPROFILE%\AppData\LocalLow\Unity\Gamfs_BrownDust II`.
 11. Replace the files and that's it.
 
 
