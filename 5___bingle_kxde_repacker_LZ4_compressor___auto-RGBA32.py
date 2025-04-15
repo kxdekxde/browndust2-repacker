@@ -75,13 +75,8 @@ for root, dirs, files in os.walk(original_bundles_folder):
                             pil_img = Image.open(modded_file_path).convert("RGBA")
                             new_width, new_height = pil_img.size
 
-                            # Determine texture format based on aspect ratio
-                            if new_width == new_height:
-                                # Square image: use DXT5
-                                texture_format = 12  # DXT5
-                            else:
-                                # Non-square image: use RGBA32
-                                texture_format = 4  # RGBA32
+                            # Always use RGBA32 regardless of image dimensions
+                            texture_format = 4  # RGBA32
 
                             # Update texture properties
                             data.m_Width = new_width
