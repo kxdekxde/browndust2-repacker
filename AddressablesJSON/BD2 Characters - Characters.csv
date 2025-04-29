@@ -28,7 +28,7 @@ Olstein,char000601,The Fiend Scholar,0bd04930e2db36642637cda0d6c531b5,
 Eclipse,char000701,The Dimesion Witch,0bd04930e2db36642637cda0d6c531b5,7142889e606101a7aa8ffe865520e2b1
 ,char000706,Nightmare Bunny,0bd04930e2db36642637cda0d6c531b5,7142889e606101a7aa8ffe865520e2b1
 ,char000707,Beach Vacane,0bd04930e2db36642637cda0d6c531b5,757b3ca23889b4b77ff48523569f4932
-Rubia,char000801,Thorn of the Desert,0bd04930e2db36642637cda0d6c531b5,
+Rubia,char000801,Thorn of the Desert,0bd04930e2db36642637cda0d6c531b5,e7996053a5c0a6863c58636ca913de0a
 ,char000804,The Empress of the Ocean,0bd04930e2db36642637cda0d6c531b5,b50762b84e8de3ec23e9855060231692
 ,char000806,Maid Name C,0bd04930e2db36642637cda0d6c531b5,b50762b84e8de3ec23e9855060231692
 Sylvia,char001001,Desert Flower,92b7cf019930c114b460e480ff78c9ba,b50762b84e8de3ec23e9855060231692
@@ -58,7 +58,7 @@ Nebris,illust_dating1,New Hire / DATING SIM,,5bb19337ee2db8742f128b1eb06595a2
 Morpeah,illust_dating2,Daydream Bunny / DATING SIM,,5bb19337ee2db8742f128b1eb06595a2
 ,char003401,Beach Vacane,92b7cf019930c114b460e480ff78c9ba,844f4f4b7a514ff4ace0943f392e633b
 ,char003402,Daydream Bunny,3fe097e714450526b41aa740f377f43c,757b3ca23889b4b77ff48523569f4932
-,char003403,Apostle,99788f5cc062190a31abbf5e00f3a152,
+,char003403,Apostle,aa3d3a97d6c28c5fb1fd7533630b971a,3b17d6ebff7a44919341116da23f88db
 Sacred Justia,char003501,Reclaimed Destiny,92b7cf019930c114b460e480ff78c9ba,844f4f4b7a514ff4ace0943f392e633b
 Blade,char003701,Apostle,3fe097e714450526b41aa740f377f43c,757b3ca23889b4b77ff48523569f4932
 ,char003702,Onsen Swordfighter,3fe097e714450526b41aa740f377f43c,
@@ -85,7 +85,7 @@ Lecliss,char060601,Killer Doll,0b65c8351041f61dbb025f08fdc29708,88d48796978923d6
 Rafina,char060701,Steel Engine,0b65c8351041f61dbb025f08fdc29708,
 ,char060702,Code Name A,0b65c8351041f61dbb025f08fdc29708,
 ,char060706,Game Club,0b65c8351041f61dbb025f08fdc29708,98929a14fc087a2dfd1446bc726e9bae
-Elise,illust_dating5,Code Name O / DATING SIM,,99788f5cc062190a31abbf5e00f3a152
+Elise,illust_dating5,Code Name O / DATING SIM,,8cbe60797d22f6acdd50d99d932ec8a6
 ,char060801,Lovely Lady,0b65c8351041f61dbb025f08fdc29708,88d48796978923d61fed8e19509e3d06
 ,char060802,Code Name O,0b65c8351041f61dbb025f08fdc29708,98929a14fc087a2dfd1446bc726e9bae
 Helena,char061001,Top Idol,0b65c8351041f61dbb025f08fdc29708,98929a14fc087a2dfd1446bc726e9bae
@@ -122,10 +122,10 @@ Levia,char067301,Track and Field Captain,0b65c8351041f61dbb025f08fdc29708,1aca0f
 ,char067303,OverHeat,771dee0a1f10a7a61dd7907da7c361de,86b241327d6a62af68e7652053919b0b
 Michaela,char067401,Beachside Justice,0b65c8351041f61dbb025f08fdc29708,86b241327d6a62af68e7652053919b0b
 ,char067402,Queen of Signatures,771dee0a1f10a7a61dd7907da7c361de,86b241327d6a62af68e7652053919b0b
-,char067403,Acting Archbishop,771dee0a1f10a7a61dd7907da7c361de,99788f5cc062190a31abbf5e00f3a152
+,char067403,Acting Archbishop,771dee0a1f10a7a61dd7907da7c361de,82585cd6f0ed63493e554350eccb86e3
 Luvencia,char067502,Deal Snatcher,775d0448ae50de78755116ee5d3f5c95,86b241327d6a62af68e7652053919b0b
 ,char067503,Wild Dog,775d0448ae50de78755116ee5d3f5c95,86b241327d6a62af68e7652053919b0b
-Wilhelmina,char067601,Iron Monarch,99788f5cc062190a31abbf5e00f3a152,99788f5cc062190a31abbf5e00f3a152
+Wilhelmina,char067601,Iron Monarch,c24d4c5494e2853eaa9b8b9dde402a2e,fde8e34a41364648cb0d5e11fb868465
 Gynt,char100101,Lupo Hunter,ecdfc15b23580667fa12c0d51a05db61,
 Fred,char100201,Lugo Defense Force,ecdfc15b23580667fa12c0d51a05db61,
 Lisianne,char100301,Wandering Priest,ecdfc15b23580667fa12c0d51a05db61,
@@ -151,27 +151,28 @@ Rigenette,char103401,Little Hunter,ecdfc15b23580667fa12c0d51a05db61,96607fa26e1c
 Beatrice,char103501,The Mighty Warrior of the Tribe,ecdfc15b23580667fa12c0d51a05db61,96607fa26e1c35aeeb939f26ad821e0f
 Maria,char103601,Archmage,ecdfc15b23580667fa12c0d51a05db61,
 Arines,char103701,Priest of Vitality,ecdfc15b23580667fa12c0d51a05db61,
-Justia,illust_talk2,NPC,35abcb4e0bcd813027d4d127186b661b,
-Scheherazade,illust_talk3,NPC,35abcb4e0bcd813027d4d127186b661b,
-Rou,illust_talk5,NPC,35abcb4e0bcd813027d4d127186b661b,
-Eclipse,illust_talk7,NPC / Collection Tab,35abcb4e0bcd813027d4d127186b661b,
-Rubia,illust_talk8,NPC,35abcb4e0bcd813027d4d127186b661b,
-Sylvia,illust_talk10,NPC,35abcb4e0bcd813027d4d127186b661b,
-Diana,illust_talk24,NPC,35abcb4e0bcd813027d4d127186b661b,
-Teresse,illust_talk001101,NPC,35abcb4e0bcd813027d4d127186b661b,
-Liatris,illust_talk001201,NPC,35abcb4e0bcd813027d4d127186b661b,
-Celia,illust_talk9015,NPC,35abcb4e0bcd813027d4d127186b661b,
-Fiend Hunt Girl,illust_talk9016,NPC,35abcb4e0bcd813027d4d127186b661b,
-Liberta,illust_talk9017,NPC Dark Saintess,35abcb4e0bcd813027d4d127186b661b,
-Ellin,npc_ellin,NPC,88cdd29f0ca324b882953426c9b76f97,
-Nebris,npc0033,NPC / Labyrinth Gatekeeper,88cdd29f0ca324b882953426c9b76f97,
-Shop Girl,npc000001,NPC,88cdd29f0ca324b882953426c9b76f97,
-Layla,npc000004,NPC / UR Weapon Summon,88cdd29f0ca324b882953426c9b76f97,
-Eleanor,npc000005,NPC / UR Character Summon,88cdd29f0ca324b882953426c9b76f97,
+Justia,illust_talk2,NPC,1809593d97c3793adc285f3e20714d10,
+Scheherazade,illust_talk3,NPC,8f31c09abdfc6d68ac958d82ea2d8330,
+Rou,illust_talk5,NPC,61d889346250805107563691ffd9c435,
+Eclipse,illust_talk7,NPC / Collection Tab,ca26b2df8885d79f15e85f714c61b2f0,
+Rubia,illust_talk8,NPC,5fecaedf8bb2b0237eeab754b2910e4c,
+Sylvia,illust_talk10,NPC,6a1b08fbca7449f1bffc26c21553e7bb,
+Diana,illust_talk24,NPC,cebbb37ca33d2b441112f167e9afc81e,
+Teresse,illust_talk001101,NPC,306697bce1cbb57b58df51cf9e3fca30,
+Liatris,illust_talk001201,NPC,9f1897fa9ccfa2c8ef723f47987f213e,
+Celia,illust_talk9015,NPC,b28f466f6fab25d777f86bd814bb43c4,
+Fiend Hunt Girl,illust_talk9016,NPC,de691543830a9a03e58a4e14c2f07bd0,
+Liberta,illust_talk9017,NPC Dark Saintess,0761cfb2bc8242b3ac44979880376ac3,
+Ellin,npc_ellin,NPC,762e7053aca265728ff3cf47dd0f4442,
+Nebris,npc0033,NPC / Labyrinth Gatekeeper,352132a42a5a4272bac61adbabfd609d,
+Shop Girl,npc000001,NPC,762e7053aca265728ff3cf47dd0f4442,
+Layla,npc000004,NPC / UR Weapon Summon,89925464e40893352ca58a1768716958,
+Eleanor,npc000005,NPC / UR Character Summon,a4e6cfa70d4e70b8a23f9010c414c576,
 Darian Silverstein,npc000011,NPC,775d0448ae50de78755116ee5d3f5c95,
 Female Researcher,npc200551,NPC,775d0448ae50de78755116ee5d3f5c95,
-Elpis,npc300302,NPC / Tower of Salvation,88cdd29f0ca324b882953426c9b76f97,
-Guild Girl,npc300601,NPC,88cdd29f0ca324b882953426c9b76f97,
+Elpis,npc300302,NPC / Tower of Salvation,7bbda13919ce895c988e4bc8570cbcf5,
+Guild Girl,npc300601,NPC,9f0bb040340045f27baa9d472d2c015a,
 Veila,npc300701,NPC,775d0448ae50de78755116ee5d3f5c95,
 Smol Liberta,npc400001,NPC,775d0448ae50de78755116ee5d3f5c95,
-Sonya,npc400011,NPC,99788f5cc062190a31abbf5e00f3a152,
+Sonya,npc400011,NPC,f20c9496619cc5f1d225aca3935163d3,
+Kelian,specialillust64,Story Illust,4e48947fda3cdd419930d5b389ecdd56,
