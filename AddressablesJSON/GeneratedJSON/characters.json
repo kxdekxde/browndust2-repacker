@@ -403,7 +403,7 @@
         "file_id": "char000801",
         "costume": "Thorn of the Desert",
         "type": "cutscene",
-        "hashed_name": ""
+        "hashed_name": "e7996053a5c0a6863c58636ca913de0a"
     },
     {
         "character": "Rubia",
@@ -788,14 +788,14 @@
         "file_id": "char003403",
         "costume": "Apostle",
         "type": "idle",
-        "hashed_name": "99788f5cc062190a31abbf5e00f3a152"
+        "hashed_name": "aa3d3a97d6c28c5fb1fd7533630b971a"
     },
     {
         "character": "Morpeah",
         "file_id": "char003403",
         "costume": "Apostle",
         "type": "cutscene",
-        "hashed_name": ""
+        "hashed_name": "3b17d6ebff7a44919341116da23f88db"
     },
     {
         "character": "Sacred Justia",
@@ -1173,7 +1173,7 @@
         "file_id": "illust_dating5",
         "costume": "Code Name O / DATING SIM",
         "type": "cutscene",
-        "hashed_name": "99788f5cc062190a31abbf5e00f3a152"
+        "hashed_name": "8cbe60797d22f6acdd50d99d932ec8a6"
     },
     {
         "character": "Elise",
@@ -1691,7 +1691,7 @@
         "file_id": "char067403",
         "costume": "Acting Archbishop",
         "type": "cutscene",
-        "hashed_name": "99788f5cc062190a31abbf5e00f3a152"
+        "hashed_name": "82585cd6f0ed63493e554350eccb86e3"
     },
     {
         "character": "Luvencia",
@@ -1726,14 +1726,14 @@
         "file_id": "char067601",
         "costume": "Iron Monarch",
         "type": "idle",
-        "hashed_name": "99788f5cc062190a31abbf5e00f3a152"
+        "hashed_name": "c24d4c5494e2853eaa9b8b9dde402a2e"
     },
     {
         "character": "Wilhelmina",
         "file_id": "char067601",
         "costume": "Iron Monarch",
         "type": "cutscene",
-        "hashed_name": "99788f5cc062190a31abbf5e00f3a152"
+        "hashed_name": "fde8e34a41364648cb0d5e11fb868465"
     },
     {
         "character": "Gynt",
@@ -2090,7 +2090,7 @@
         "file_id": "illust_talk2",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "1809593d97c3793adc285f3e20714d10"
     },
     {
         "character": "Justia",
@@ -2104,7 +2104,7 @@
         "file_id": "illust_talk3",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "8f31c09abdfc6d68ac958d82ea2d8330"
     },
     {
         "character": "Scheherazade",
@@ -2118,7 +2118,7 @@
         "file_id": "illust_talk5",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "61d889346250805107563691ffd9c435"
     },
     {
         "character": "Rou",
@@ -2132,7 +2132,7 @@
         "file_id": "illust_talk7",
         "costume": "NPC / Collection Tab",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "ca26b2df8885d79f15e85f714c61b2f0"
     },
     {
         "character": "Eclipse",
@@ -2146,7 +2146,7 @@
         "file_id": "illust_talk8",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "5fecaedf8bb2b0237eeab754b2910e4c"
     },
     {
         "character": "Rubia",
@@ -2160,7 +2160,7 @@
         "file_id": "illust_talk10",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "6a1b08fbca7449f1bffc26c21553e7bb"
     },
     {
         "character": "Sylvia",
@@ -2174,7 +2174,7 @@
         "file_id": "illust_talk24",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "cebbb37ca33d2b441112f167e9afc81e"
     },
     {
         "character": "Diana",
@@ -2188,7 +2188,7 @@
         "file_id": "illust_talk001101",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "306697bce1cbb57b58df51cf9e3fca30"
     },
     {
         "character": "Teresse",
@@ -2202,7 +2202,7 @@
         "file_id": "illust_talk001201",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "9f1897fa9ccfa2c8ef723f47987f213e"
     },
     {
         "character": "Liatris",
@@ -2216,7 +2216,7 @@
         "file_id": "illust_talk9015",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "b28f466f6fab25d777f86bd814bb43c4"
     },
     {
         "character": "Celia",
@@ -2230,7 +2230,7 @@
         "file_id": "illust_talk9016",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "de691543830a9a03e58a4e14c2f07bd0"
     },
     {
         "character": "Fiend Hunt Girl",
@@ -2244,7 +2244,7 @@
         "file_id": "illust_talk9017",
         "costume": "NPC Dark Saintess",
         "type": "idle",
-        "hashed_name": "35abcb4e0bcd813027d4d127186b661b"
+        "hashed_name": "0761cfb2bc8242b3ac44979880376ac3"
     },
     {
         "character": "Liberta",
@@ -2258,7 +2258,7 @@
         "file_id": "npc_ellin",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "762e7053aca265728ff3cf47dd0f4442"
     },
     {
         "character": "Ellin",
@@ -2272,7 +2272,7 @@
         "file_id": "npc0033",
         "costume": "NPC / Labyrinth Gatekeeper",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "352132a42a5a4272bac61adbabfd609d"
     },
     {
         "character": "Nebris",
@@ -2286,7 +2286,7 @@
         "file_id": "npc000001",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "762e7053aca265728ff3cf47dd0f4442"
     },
     {
         "character": "Shop Girl",
@@ -2300,7 +2300,7 @@
         "file_id": "npc000004",
         "costume": "NPC / UR Weapon Summon",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "89925464e40893352ca58a1768716958"
     },
     {
         "character": "Layla",
@@ -2314,7 +2314,7 @@
         "file_id": "npc000005",
         "costume": "NPC / UR Character Summon",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "a4e6cfa70d4e70b8a23f9010c414c576"
     },
     {
         "character": "Eleanor",
@@ -2356,7 +2356,7 @@
         "file_id": "npc300302",
         "costume": "NPC / Tower of Salvation",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "7bbda13919ce895c988e4bc8570cbcf5"
     },
     {
         "character": "Elpis",
@@ -2370,7 +2370,7 @@
         "file_id": "npc300601",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "9f0bb040340045f27baa9d472d2c015a"
     },
     {
         "character": "Guild Girl",
@@ -2412,12 +2412,26 @@
         "file_id": "npc400011",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "99788f5cc062190a31abbf5e00f3a152"
+        "hashed_name": "f20c9496619cc5f1d225aca3935163d3"
     },
     {
         "character": "Sonya",
         "file_id": "npc400011",
         "costume": "NPC",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Kelian",
+        "file_id": "specialillust64",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "4e48947fda3cdd419930d5b389ecdd56"
+    },
+    {
+        "character": "Kelian",
+        "file_id": "specialillust64",
+        "costume": "Story Illust",
         "type": "cutscene",
         "hashed_name": ""
     }
