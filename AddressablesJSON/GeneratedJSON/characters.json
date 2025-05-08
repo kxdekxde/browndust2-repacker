@@ -2434,5 +2434,19 @@
         "costume": "Story Illust",
         "type": "cutscene",
         "hashed_name": ""
+    },
+    {
+        "character": "Scheherazade",
+        "file_id": "specialillust65",
+        "costume": "Goblin Slayer Collab Illust",
+        "type": "idle",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "Scheherazade",
+        "file_id": "specialillust65",
+        "costume": "Goblin Slayer Collab Illust",
+        "type": "cutscene",
+        "hashed_name": ""
     }
 ]
