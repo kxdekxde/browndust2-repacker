@@ -994,6 +994,48 @@
         "hashed_name": "88d48796978923d61fed8e19509e3d06"
     },
     {
+        "character": "Goblin Slayer",
+        "file_id": "char020601",
+        "costume": "Orcbolg",
+        "type": "idle",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "Goblin Slayer",
+        "file_id": "char020601",
+        "costume": "Orcbolg",
+        "type": "cutscene",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "High Elf Archer",
+        "file_id": "char020701",
+        "costume": "Daughter of Starwind",
+        "type": "idle",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "High Elf Archer",
+        "file_id": "char020701",
+        "costume": "Daughter of Starwind",
+        "type": "cutscene",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "Priestess",
+        "file_id": "char020801",
+        "costume": "Earth Mother Believer",
+        "type": "idle",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "Priestess",
+        "file_id": "char020801",
+        "costume": "Earth Mother Believer",
+        "type": "cutscene",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
         "character": "Alec",
         "file_id": "char060301",
         "costume": "The Destruction",
