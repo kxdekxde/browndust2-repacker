@@ -1036,6 +1036,20 @@
         "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
     },
     {
+        "character": "Sword Maiden",
+        "file_id": "char020901",
+        "costume": "Supreme God Archbishop",
+        "type": "idle",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "Sword Maiden",
+        "file_id": "char020901",
+        "costume": "Supreme God Archbishop",
+        "type": "cutscene",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
         "character": "Alec",
         "file_id": "char060301",
         "costume": "The Destruction",
