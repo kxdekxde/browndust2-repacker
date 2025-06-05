@@ -648,7 +648,7 @@
         "file_id": "npc300501",
         "costume": "Last Hope",
         "type": "idle",
-        "hashed_name": "88cdd29f0ca324b882953426c9b76f97"
+        "hashed_name": "e1974ea04ab8c8713259bfcca2c72e01"
     },
     {
         "character": "Loen",
@@ -1356,6 +1356,20 @@
         "costume": "Robin Hood",
         "type": "cutscene",
         "hashed_name": "9b0a0f0b8e7394d6b512ec7a62a7102f"
+    },
+    {
+        "character": "Zenith",
+        "file_id": "char061404",
+        "costume": "Poolside Guardian",
+        "type": "idle",
+        "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
+    },
+    {
+        "character": "Zenith",
+        "file_id": "char061404",
+        "costume": "Poolside Guardian",
+        "type": "cutscene",
+        "hashed_name": ""
     },
     {
         "character": "Andrew",
@@ -2142,6 +2156,258 @@
         "hashed_name": ""
     },
     {
+        "character": "Eclipse",
+        "file_id": "illust_special6",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Eclipse",
+        "file_id": "illust_special6",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Apostle Blade",
+        "file_id": "illust_special7_1",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Apostle Blade",
+        "file_id": "illust_special7_1",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Apostle Morpeah",
+        "file_id": "illust_special7_2",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Apostle Morpeah",
+        "file_id": "illust_special7_2",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "News Reporter Woman",
+        "file_id": "illust_special13",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "News Reporter Woman",
+        "file_id": "illust_special13",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Justia",
+        "file_id": "illust_special14",
+        "costume": "Event Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Justia",
+        "file_id": "illust_special14",
+        "costume": "Event Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Diana and Lathel",
+        "file_id": "illust_special16",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Diana and Lathel",
+        "file_id": "illust_special16",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Granhildr",
+        "file_id": "illust_special17",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Granhildr",
+        "file_id": "illust_special17",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Justia",
+        "file_id": "illust_special18",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Justia",
+        "file_id": "illust_special18",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Olivier and Tia",
+        "file_id": "illust_special19",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Olivier and Tia",
+        "file_id": "illust_special19",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Sacred Justia",
+        "file_id": "illust_special20_2",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Sacred Justia",
+        "file_id": "illust_special20_2",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Scheherazade",
+        "file_id": "storypack2_2",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "94fa5d856980f8ae38ccbfe81c35a362"
+    },
+    {
+        "character": "Scheherazade",
+        "file_id": "storypack2_2",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Nebris",
+        "file_id": "illust_special21",
+        "costume": "Event Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Nebris",
+        "file_id": "illust_special21",
+        "costume": "Event Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Rou",
+        "file_id": "illust_special22",
+        "costume": "Event Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Rou",
+        "file_id": "illust_special22",
+        "costume": "Event Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Loen and Morpeah",
+        "file_id": "illust_special23",
+        "costume": "Event Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Loen and Morpeah",
+        "file_id": "illust_special23",
+        "costume": "Event Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Loen",
+        "file_id": "illust_special24",
+        "costume": "Event Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Loen",
+        "file_id": "illust_special24",
+        "costume": "Event Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Luvencia and Levia",
+        "file_id": "illust_special25",
+        "costume": "Event Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Luvencia and Levia",
+        "file_id": "illust_special25",
+        "costume": "Event Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Apostle Justia",
+        "file_id": "illust_special52",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Apostle Justia",
+        "file_id": "illust_special52",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Apostle Blade",
+        "file_id": "specialIllust51",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "b3cb505031c59e7929fb7a5ddf3edc9a"
+    },
+    {
+        "character": "Apostle Blade",
+        "file_id": "specialIllust51",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
         "character": "Justia",
         "file_id": "illust_talk2",
         "costume": "NPC",
@@ -2342,7 +2608,7 @@
         "file_id": "npc000001",
         "costume": "NPC",
         "type": "idle",
-        "hashed_name": "762e7053aca265728ff3cf47dd0f4442"
+        "hashed_name": "f2d3d5bc0b14af22f977ec73d37fc641"
     },
     {
         "character": "Shop Girl",
@@ -2479,6 +2745,20 @@
     },
     {
         "character": "Kelian",
+        "file_id": "specialillust60",
+        "costume": "Story Illust",
+        "type": "idle",
+        "hashed_name": "2a9c9c92ccc927d6c92fa10db13f599f"
+    },
+    {
+        "character": "Kelian",
+        "file_id": "specialillust60",
+        "costume": "Story Illust",
+        "type": "cutscene",
+        "hashed_name": ""
+    },
+    {
+        "character": "Kelian",
         "file_id": "specialillust64",
         "costume": "Story Illust",
         "type": "idle",
@@ -2492,14 +2772,14 @@
         "hashed_name": ""
     },
     {
-        "character": "Scheherazade",
+        "character": "Scheherazade and Goblins",
         "file_id": "specialillust65",
         "costume": "Goblin Slayer Collab Illust",
         "type": "idle",
         "hashed_name": "dcde6611b3f7bc1adb9bb83c06f490cf"
     },
     {
-        "character": "Scheherazade",
+        "character": "Scheherazade and Goblins",
         "file_id": "specialillust65",
         "costume": "Goblin Slayer Collab Illust",
         "type": "cutscene",

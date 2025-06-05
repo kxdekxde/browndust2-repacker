@@ -11,6 +11,7 @@ Justia,char000201,Knight of Blood,0bd04930e2db36642637cda0d6c531b5,
 ,char000203,Blood Glutton,0bd04930e2db36642637cda0d6c531b5,537cafcbb80a4169b187d30d1e3e5f90
 ,char000204,Kendo Club,0bd04930e2db36642637cda0d6c531b5,537cafcbb80a4169b187d30d1e3e5f90
 ,char000206,Pool Party,0bd04930e2db36642637cda0d6c531b5,537cafcbb80a4169b187d30d1e3e5f90
+,,Hot Summer Dream,,
 Scheherazade,char000301,The Lapis Witch,0bd04930e2db36642637cda0d6c531b5,537cafcbb80a4169b187d30d1e3e5f90
 ,char000303,The Magic School Professor,0bd04930e2db36642637cda0d6c531b5,7142889e606101a7aa8ffe865520e2b1
 ,char000304,Code Name S,0bd04930e2db36642637cda0d6c531b5,7142889e606101a7aa8ffe865520e2b1
@@ -28,6 +29,7 @@ Olstein,char000601,The Fiend Scholar,0bd04930e2db36642637cda0d6c531b5,
 Eclipse,char000701,The Dimesion Witch,0bd04930e2db36642637cda0d6c531b5,7142889e606101a7aa8ffe865520e2b1
 ,char000706,Nightmare Bunny,0bd04930e2db36642637cda0d6c531b5,7142889e606101a7aa8ffe865520e2b1
 ,char000707,Beach Vacane,0bd04930e2db36642637cda0d6c531b5,757b3ca23889b4b77ff48523569f4932
+,,Dream Bride,,
 Rubia,char000801,Thorn of the Desert,0bd04930e2db36642637cda0d6c531b5,e7996053a5c0a6863c58636ca913de0a
 ,char000804,The Empress of the Ocean,0bd04930e2db36642637cda0d6c531b5,b50762b84e8de3ec23e9855060231692
 ,char000806,Maid Name C,0bd04930e2db36642637cda0d6c531b5,b50762b84e8de3ec23e9855060231692
@@ -46,7 +48,7 @@ Diana,char002401,Adventurer of the Unknown,92b7cf019930c114b460e480ff78c9ba,844f
 Layla,char003001,Anvil of Creation,92b7cf019930c114b460e480ff78c9ba,
 Elpis,char003101,Hand of Salvation,3fe097e714450526b41aa740f377f43c,844f4f4b7a514ff4ace0943f392e633b
 Loen,illust_dating3,Celebrity Bunny / DATING SIM,,5bb19337ee2db8742f128b1eb06595a2
-,npc300501,Last Hope,88cdd29f0ca324b882953426c9b76f97,
+,npc300501,Last Hope,e1974ea04ab8c8713259bfcca2c72e01,
 ,char003201,,,537cafcbb80a4169b187d30d1e3e5f90
 ,char003202,Track and Field Team,92b7cf019930c114b460e480ff78c9ba,844f4f4b7a514ff4ace0943f392e633b
 ,char003203,Celebrity Bunny,3fe097e714450526b41aa740f377f43c,757b3ca23889b4b77ff48523569f4932
@@ -99,6 +101,7 @@ Eleaneer,char061101,Piercing Magic Bow,0b65c8351041f61dbb025f08fdc29708,88d48796
 Dalvi,char061302,Bright Moon,0b65c8351041f61dbb025f08fdc29708,98929a14fc087a2dfd1446bc726e9bae
 ,char061305,Summer Vacation,0b65c8351041f61dbb025f08fdc29708,9b0a0f0b8e7394d6b512ec7a62a7102f
 Zenith,char061402,Robin Hood,0b65c8351041f61dbb025f08fdc29708,9b0a0f0b8e7394d6b512ec7a62a7102f
+,char061404,Poolside Guardian,dcde6611b3f7bc1adb9bb83c06f490cf,
 Andrew,char062001,Loyal Butler,0b65c8351041f61dbb025f08fdc29708,
 ,char062002,Specialist,0b65c8351041f61dbb025f08fdc29708,
 Ingrid,char063001,Kardis' Bullet,0b65c8351041f61dbb025f08fdc29708,
@@ -112,6 +115,7 @@ Angelica,char066401,The Fallen,0b65c8351041f61dbb025f08fdc29708,9b0a0f0b8e7394d6
 ,char066403,Neon Savior,0b65c8351041f61dbb025f08fdc29708,9b0a0f0b8e7394d6b512ec7a62a7102f
 Refithea,char066801,The Gluttonous,0b65c8351041f61dbb025f08fdc29708,1aca0fada1e472a9e1d862118c75d168
 ,char066802,Pure White Blessing,0b65c8351041f61dbb025f08fdc29708,1aca0fada1e472a9e1d862118c75d168
+,,Poolside Fairy,,
 Glacia,char066902,Alice,0b65c8351041f61dbb025f08fdc29708,1aca0fada1e472a9e1d862118c75d168
 ,char066906,Disciplinary Committee,0b65c8351041f61dbb025f08fdc29708,1aca0fada1e472a9e1d862118c75d168
 Ventana,char067002,Snow White,0b65c8351041f61dbb025f08fdc29708,1aca0fada1e472a9e1d862118c75d168
@@ -130,6 +134,7 @@ Michaela,char067401,Beachside Justice,0b65c8351041f61dbb025f08fdc29708,86b241327
 Luvencia,char067502,Deal Snatcher,775d0448ae50de78755116ee5d3f5c95,86b241327d6a62af68e7652053919b0b
 ,char067503,Wild Dog,775d0448ae50de78755116ee5d3f5c95,86b241327d6a62af68e7652053919b0b
 Wilhelmina,char067601,Iron Monarch,c24d4c5494e2853eaa9b8b9dde402a2e,fde8e34a41364648cb0d5e11fb868465
+,,Water Park Queen,,
 Gynt,char100101,Lupo Hunter,ecdfc15b23580667fa12c0d51a05db61,
 Fred,char100201,Lugo Defense Force,ecdfc15b23580667fa12c0d51a05db61,
 Lisianne,char100301,Wandering Priest,ecdfc15b23580667fa12c0d51a05db61,
@@ -155,6 +160,24 @@ Rigenette,char103401,Little Hunter,ecdfc15b23580667fa12c0d51a05db61,96607fa26e1c
 Beatrice,char103501,The Mighty Warrior of the Tribe,ecdfc15b23580667fa12c0d51a05db61,96607fa26e1c35aeeb939f26ad821e0f
 Maria,char103601,Archmage,ecdfc15b23580667fa12c0d51a05db61,
 Arines,char103701,Priest of Vitality,ecdfc15b23580667fa12c0d51a05db61,
+Eclipse,illust_special6,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Apostle Blade,illust_special7_1,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Apostle Morpeah,illust_special7_2,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+News Reporter Woman,illust_special13,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Justia,illust_special14,Event Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Diana and Lathel,illust_special16,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Granhildr,illust_special17,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Justia,illust_special18,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Olivier and Tia,illust_special19,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Sacred Justia,illust_special20_2,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Scheherazade,storypack2_2,Story Illust,94fa5d856980f8ae38ccbfe81c35a362,
+Nebris,illust_special21,Event Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
+Rou,illust_special22,Event Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
+Loen and Morpeah,illust_special23,Event Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
+Loen,illust_special24,Event Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
+Luvencia and Levia,illust_special25,Event Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
+Apostle Justia,illust_special52,Story Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
+Apostle Blade,specialIllust51,Story Illust,b3cb505031c59e7929fb7a5ddf3edc9a,
 Justia,illust_talk2,NPC,1809593d97c3793adc285f3e20714d10,
 Scheherazade,illust_talk3,NPC,8f31c09abdfc6d68ac958d82ea2d8330,
 Rou,illust_talk5,NPC,61d889346250805107563691ffd9c435,
@@ -169,7 +192,7 @@ Fiend Hunt Girl,illust_talk9016,NPC,de691543830a9a03e58a4e14c2f07bd0,
 Liberta,illust_talk9017,NPC Dark Saintess,0761cfb2bc8242b3ac44979880376ac3,
 Ellin,npc_ellin,NPC,762e7053aca265728ff3cf47dd0f4442,
 Nebris,npc0033,NPC / Labyrinth Gatekeeper,352132a42a5a4272bac61adbabfd609d,
-Shop Girl,npc000001,NPC,762e7053aca265728ff3cf47dd0f4442,
+Shop Girl,npc000001,NPC,f2d3d5bc0b14af22f977ec73d37fc641,
 Layla,npc000004,NPC / UR Weapon Summon,89925464e40893352ca58a1768716958,
 Eleanor,npc000005,NPC / UR Character Summon,a4e6cfa70d4e70b8a23f9010c414c576,
 Darian Silverstein,npc000011,NPC,775d0448ae50de78755116ee5d3f5c95,
@@ -179,5 +202,6 @@ Guild Girl,npc300601,NPC,9f0bb040340045f27baa9d472d2c015a,
 Veila,npc300701,NPC,775d0448ae50de78755116ee5d3f5c95,
 Smol Liberta,npc400001,NPC,775d0448ae50de78755116ee5d3f5c95,
 Sonya,npc400011,NPC,f20c9496619cc5f1d225aca3935163d3,
+Kelian,specialillust60,Story Illust,2a9c9c92ccc927d6c92fa10db13f599f,
 Kelian,specialillust64,Story Illust,4e48947fda3cdd419930d5b389ecdd56,
-Scheherazade,specialillust65,Goblin Slayer Collab Illust,dcde6611b3f7bc1adb9bb83c06f490cf,
+Scheherazade and Goblins,specialillust65,Goblin Slayer Collab Illust,dcde6611b3f7bc1adb9bb83c06f490cf,
