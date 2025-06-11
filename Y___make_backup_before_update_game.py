@@ -1,6 +1,8 @@
 import os
 import json
 import shutil
+import urllib.request
+import hashlib
 
 # Get the current script's directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -9,14 +11,51 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 json_file_path = os.path.join(script_dir, "AddressablesJSON", "GeneratedJSON", "characters.json")
 gamfs_path = os.path.join(os.path.expanduser("~"), "AppData", "LocalLow", "Unity", "Gamfs_BrownDust II")
 backup_path = os.path.join(script_dir, "Backup")
+github_json_url = "https://raw.githubusercontent.com/kxdekxde/browndust2-repacker/refs/heads/main/AddressablesJSON/GeneratedJSON/characters.json"
 
 # Ensure the backup directory exists
 os.makedirs(backup_path, exist_ok=True)
 
+def check_and_update_json():
+    """Check for updates to the JSON file on GitHub and update if needed."""
+    try:
+        # Download the GitHub version
+        with urllib.request.urlopen(github_json_url) as response:
+            github_json = response.read().decode('utf-8')
+            github_data = json.loads(github_json)
+        
+        # Check if local file exists
+        local_exists = os.path.exists(json_file_path)
+        
+        if local_exists:
+            # Load local version
+            with open(json_file_path, 'r', encoding='utf-8') as f:
+                local_data = json.load(f)
+            
+            # Compare by converting to JSON strings
+            if json.dumps(local_data, sort_keys=True) == json.dumps(github_data, sort_keys=True):
+                print("Local JSON file is up to date.")
+                return False
+            else:
+                print("Local JSON file is outdated.")
+        else:
+            print("Local JSON file not found. Downloading from GitHub.")
+        
+        # Update local file
+        os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
+        with open(json_file_path, 'w', encoding='utf-8') as f:
+            json.dump(github_data, f, indent=2)
+        print("Local JSON file has been updated from GitHub.")
+        return True
+        
+    except Exception as e:
+        print(f"Error checking/updating JSON file: {e}")
+        return False
+
 def load_json(file_path):
     """Load JSON data from a file."""
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
     except FileNotFoundError:
         print(f"Error: JSON file not found at {file_path}")
@@ -78,6 +117,9 @@ def find_matching_folders(hashed_names, source_path, dest_path):
     print("Copy process completed.")
 
 def main():
+    # Check and update JSON file from GitHub
+    check_and_update_json()
+    
     # Load JSON data
     json_data = load_json(json_file_path)
 
